@@ -260,6 +260,33 @@
       "sourceMessageId": "49dff577-99b4-4a12-9e8d-e64ac9e35788",
       "reviewStatus": "作者自检；待三视角供评",
       "importTask": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a"
+    },
+    {
+      "id": "clerk-04",
+      "title": "请勿将明天浸入水中",
+      "author": "国教抄书员甲",
+      "version": "snapshot-b19ee19aeb33",
+      "sourceTask": "bb4a3c25-9589-47fd-9817-52b41c36fec4",
+      "sourceFile": "请勿将明天浸入水中.txt",
+      "sha256": "b19ee19aeb33ca96bee11fda56ff248ac312233b8cc1ad5dfdd56a32ebefafeb",
+      "sourceFileId": "c34acfad-7194-44a1-b18e-289041b6a6e3",
+      "sourceMessageId": "3fc74a7c-320b-4bb2-955d-e672bcf33020",
+      "reviewStatus": "作者自检；待三视角供评",
+      "importTask": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a"
     }
-  ]
+  ],
+  "current": {
+    "works": 20,
+    "chapters": 22,
+    "paragraphs": 1658,
+    "legacyExpanded": [
+      "rain",
+      "moon",
+      "email"
+    ],
+    "rawManuscripts": "20部已收且原件SHA/完整段落核验通过",
+    "reviews": "等待最后四条实际原件；以最终矩阵为准",
+    "pr": "3 DRAFT，基于PR #2，未合并",
+    "deployment": "未部署"
+  }
 }

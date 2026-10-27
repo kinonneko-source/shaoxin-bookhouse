@@ -45,7 +45,10 @@ library-audit输出20×4矩阵：实收到稿、篇幅和四视角引用分开�
 LD_LIBRARY_PATH=/workspace/.cache/browser-libs/usr/lib/x86_64-linux-gnu python3 scripts/verify_library.py /absolute/evidence
 LD_LIBRARY_PATH=/workspace/.cache/browser-libs/usr/lib/x86_64-linux-gnu python3 scripts/verify_serial.py /absolute/evidence
 node scripts/test-import.mjs
+node scripts/check-release.mjs
 ```
+
+check-release是全量验收闸门，要求至少20部、旧三篇v2、每部四条不重复的实质评述及准确版本引用；缺原件时会失败，不能用普通npm test通过替代。
 
 verify_library从实际书目逐书逐章检查桌面与手机、全部已交评论引用、旧链接、追更和恢复；verify_serial覆盖未读、新章、催更、无效章节、清除进度和存储受限降级。verify_browser是首版历史六卡演示的回归脚本，不用于扩库终验。Chromium模拟视口不等于真实iOS Safari/Android全机型认证。
 
