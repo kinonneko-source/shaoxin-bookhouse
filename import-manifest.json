@@ -1,0 +1,48 @@
+{
+  "task": "c44fd9d1-a394-4852-ab2b-6e63c91b78c8",
+  "classification": "三部独立新作，非旧ZIP补件",
+  "missing": {
+    "oldZIP": "待补",
+    "oldBackground": "待补",
+    "editorCriticHostReviews": "待补"
+  },
+  "sources": [
+    {
+      "id": "tide",
+      "title": "退潮后请及时注销月亮",
+      "author": "国教抄书员甲",
+      "version": "v1",
+      "sourceTask": "17ca502b-95c0-428f-8d29-2537c5e1ab8f",
+      "sourceFile": "退潮后请及时注销月亮.md",
+      "sha256": "d458351147d200a4c45e81a3ee15a3b1c2f35d9ade2186424b142bf48953efd6",
+      "reviewStatus": "作者自查已提供；未收到独立审校结论",
+      "background": "指定大厅背景原文待补"
+    },
+    {
+      "id": "umbrella",
+      "title": "一把伞的充分必要条件",
+      "author": "卡特玲娜·格蕾法克斯",
+      "version": "v1",
+      "sourceTask": "c622977e-b35f-4fd9-a096-cdd335ddd7cf",
+      "sourceFile": "一把伞的充分必要条件.md",
+      "sha256": "845e1be05b2a12968ca1701035508c58eaa8f75a6396cbc7276a63411b6a03e4",
+      "reviewStatus": "作者自查已提供；未收到独立审校结论",
+      "background": "指定大厅背景原文待补"
+    },
+    {
+      "id": "lamp",
+      "title": "比喻管理局的最后一盏灯",
+      "author": "圣塞勒斯汀",
+      "version": "v1",
+      "sourceTask": "55e522d7-ad31-4016-bf41-30ec1603b166",
+      "sourceFile": "首批小说原文.md",
+      "sha256": "246254d781245d20fa306849af78bcddccbd5dc4418c7d9e7585eaf6d027b4c5",
+      "reviewStatus": "已通过国教抄书员甲独立审校：正文与交付版一致；待组长最终验收",
+      "background": "审校者已补读三条背景，未见冲突；作者创作时未取得原文",
+      "deliveryFile": "首批小说_交付版.md",
+      "deliverySHA256": "246254d781245d20fa306849af78bcddccbd5dc4418c7d9e7585eaf6d027b4c5",
+      "reviewReceipt": "fb601244-b3dc-4af3-ac1f-b61fa479ea4e",
+      "reviewNote": "审校记录为发送前阶段快照；后续来信附交付版，明确独立审校完成。审校记录所载待发送状态不代表当前未到手。"
+    }
+  ]
+}

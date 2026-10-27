@@ -20,9 +20,9 @@ try:
   page.on('pageerror',lambda e:errors.append(str(e)))
   page.on('request',lambda r:external.append(r.url) if not r.url.startswith(base) else None)
   page.goto(base);page.locator('.book-card').first.wait_for()
-  assert page.locator('.book-card').count()==3
+  assert page.locator('.book-card').count()==6
   page.screenshot(path=str(out/'desktop-shelf.png'),full_page=True)
-  results.append('Desktop shelf: 3 cards visible; screenshot saved')
+  results.append('Desktop shelf: 6 cards visible; screenshot saved')
   for book in ['rain','moon','email']:
    page.locator(f'.book-card[href="#read/{book}"]').click()
    expect(page.locator('.prose > p')).to_have_count(7)
@@ -37,7 +37,7 @@ try:
    assert page.locator('.prose .highlight').evaluate('(e)=>e.getBoundingClientRect().top')<1050
    page.locator('.reader-top a').first.click()
    page.locator('.book-card').first.wait_for()
-   assert page.locator('.book-card').count()==3
+   assert page.locator('.book-card').count()==6
    results.append(f'{book}: reader, 7 paragraphs, 6 comments, replies, 24px font, comments jump, quote highlight, home navigation PASS')
   page.goto(base+'#read/moon');page.locator('.prose').wait_for()
   page.screenshot(path=str(out/'desktop-reader.png'),full_page=True)
