@@ -64,3 +64,11 @@ LD_LIBRARY_PATH=/workspace/.cache/browser-libs/usr/lib/x86_64-linux-gnu python3 
 每条程序员锐评关联正文版本、原件 SHA256、章节和段落，支持跨章节定位。编辑、评论家、主持人未取得内容时分别显示待补，不拿首版四角色代替。旧 ZIP 与旧背景缺项单列。`import-manifest.json` 保留新稿来源与审校状态：连载交付版已收到，正文与作者原件一致；交付信与入库交付版确认独立审校完成，组长最终验收另计；作者创作时未取得背景与审校者后续补核分开记录。
 
 验证：`npm test` 同时检查首版与新稿完整性；`python3 scripts/verify_serial.py <证据目录>` 覆盖追更和持久化等实际浏览器操作。静态源码入库不等于公网发布，本分支未部署。
+
+## 分批扩库与引用验收
+
+集成续接PR #2，目标为6部基线加14部独立供稿。旧三篇扩写沿用rain/moon/email，不能以章节或改名重计作品。未到原件和三视角评论均显示待补，不把旧文案/读者角色换头像当作新视角。
+
+`scripts/import-library.mjs` 读取归一化批次JSON：`books`项目附只读`originalPath`及catalog字段，`reviews`项目附`book_id`、`role`、`originalPath`、version、chapterId、paragraph（0基）、quote、text、author、source。先校验全部正文段落在原稿中的顺序、至少3000汉字、唯一ID/章节、版本变更、实际评论原件与精确引用，再更新目录及来源清单。不要把梗概、审校记录或未到手的文件路径当正文。导入前由集成人核对段落拆分是否完整，脚本不能判定情节完整性。
+
+`node scripts/library-audit.mjs <报告目录>` 输出二十部四视角矩阵，分别记录实收、篇幅与四视角引用。`npm test`校验所有已收评论的版本/哈希/原句定位；缺评保留待补，不能因测试通过宣称全量验收。最后一批入库后运行构建、浏览器桌面/手机、引用与进度回归。PR合并与公网部署另报。
