@@ -29,7 +29,7 @@ for(const input of batch.books||[]){
  const old=next.findIndex(x=>x.id===b.id);
  if(old>=0){assert(next[old].version!==b.version,'Version change required to replace work');next[old]=b;}else next.push(b);
  manifest.sources=manifest.sources.filter(x=>x.id!==b.id);
- manifest.sources.push({id:b.id,title:b.title,author:b.author,version:b.version,sourceTask:b.sourceTask,sourceFile:b.sourceFile,sha256:b.sha256,reviewStatus:b.reviewStatus,importTask:'6d01043a-a91b-4c73-8925-5fe0e28c6d7a'});
+ manifest.sources.push({id:b.id,title:b.title,author:b.author,version:b.version,sourceTask:b.sourceTask,sourceFile:b.sourceFile,sha256:b.sha256,sourceFileId:b.sourceFileId,sourceMessageId:b.sourceMessageId,reviewStatus:b.reviewStatus,importTask:'6d01043a-a91b-4c73-8925-5fe0e28c6d7a'});
 }
 for(const input of batch.reviews||[]){
  const {book_id,role,originalPath,...r}=input;
@@ -39,7 +39,7 @@ for(const input of batch.reviews||[]){
  const raw=fs.readFileSync(originalPath);const reviewSource=raw.toString('utf8');
  assert(reviewSource.includes(r.quote)&&reviewSource.includes(r.text),'Review must match delivered original');
  assert.equal(r.version,b.version,'Review version mismatch');
- r.sourceHash=b.sha256;r.reviewFile=originalPath.split('/').at(-1);r.reviewSHA256=digest(raw);r.status='已收原件，引用已核';
+ if(r.sourceHash)assert.equal(r.sourceHash,b.sha256,'Review source hash mismatch');if(r.readingHash)assert.equal(r.readingHash,digest(JSON.stringify(b.chapters)),'Review reading hash mismatch');r.sourceHash=b.sha256;r.reviewFile=originalPath.split('/').at(-1);r.reviewSHA256=digest(raw);r.status='已收原件，引用已核';
  assert.equal(inspectReview(b,r),'已核引用');b.perspectives[role]=r;
 }
 for(const b of next)for(const r of Object.values(b.perspectives))if(r.text)assert.equal(inspectReview(b,r),'已核引用');
