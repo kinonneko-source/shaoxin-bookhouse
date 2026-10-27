@@ -173,10 +173,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "d458351147d200a4c45e81a3ee15a3b1c2f35d9ade2186424b142bf48953efd6",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "2500378be10aba382774d30d85f6967226762505cbe1fabe1923ac6ca81fcf28",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -189,10 +189,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "d458351147d200a4c45e81a3ee15a3b1c2f35d9ade2186424b142bf48953efd6",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "2500378be10aba382774d30d85f6967226762505cbe1fabe1923ac6ca81fcf28",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     }
@@ -367,10 +367,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "845e1be05b2a12968ca1701035508c58eaa8f75a6396cbc7276a63411b6a03e4",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "ff966d2ed7f1da3649840120f7d425a66cbf85ec1f4165bb34eec9438940597d",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -383,10 +383,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "845e1be05b2a12968ca1701035508c58eaa8f75a6396cbc7276a63411b6a03e4",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "ff966d2ed7f1da3649840120f7d425a66cbf85ec1f4165bb34eec9438940597d",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     }
@@ -572,10 +572,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "246254d781245d20fa306849af78bcddccbd5dc4418c7d9e7585eaf6d027b4c5",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "a8f754ce7df9f2220bb69d63fc749b45eeb33f5675e98eea19417207f32b1762",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -588,10 +588,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "246254d781245d20fa306849af78bcddccbd5dc4418c7d9e7585eaf6d027b4c5",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "a8f754ce7df9f2220bb69d63fc749b45eeb33f5675e98eea19417207f32b1762",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -754,10 +754,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "dc48b496a2aaabe1bad326bad7b84a14fdf757092dcb91b450dd03b56b77737b",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "0d5346f23ef98bcb0b5b6fa57ea6a080bf90605a2d6c4fe30a3da7ddee47db82",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -770,10 +770,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "dc48b496a2aaabe1bad326bad7b84a14fdf757092dcb91b450dd03b56b77737b",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "0d5346f23ef98bcb0b5b6fa57ea6a080bf90605a2d6c4fe30a3da7ddee47db82",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -923,10 +923,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "8ea5b8c39556234b7c20d1de866ac9ad0d8a08ebf1c3dd5943091928877469c8",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "7d9f0d632ab5a2ee639fe16cfeacbe489a1e5cc04f8342ca5c8c62feb4119974",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -939,10 +939,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "8ea5b8c39556234b7c20d1de866ac9ad0d8a08ebf1c3dd5943091928877469c8",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "7d9f0d632ab5a2ee639fe16cfeacbe489a1e5cc04f8342ca5c8c62feb4119974",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -1061,10 +1061,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "30dc02aab3fc09a46df9dae97fec472a0a3935109e67a1143db025f7e9f22b94",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "91bd1e81e1bce91c50ab0b0f5b38854caca509f8bba2c21da76836469c524152",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -1077,10 +1077,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "30dc02aab3fc09a46df9dae97fec472a0a3935109e67a1143db025f7e9f22b94",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "91bd1e81e1bce91c50ab0b0f5b38854caca509f8bba2c21da76836469c524152",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -1244,10 +1244,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "904da67bcc8e1f31b7a5a09d01200a31fc1b85d093f8153076b0211449c7715f",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "989b233443cc801ab5ab8c0ccb54a0c7fd540e678300b6e3a1913b174d5ca137",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -1260,10 +1260,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "904da67bcc8e1f31b7a5a09d01200a31fc1b85d093f8153076b0211449c7715f",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "989b233443cc801ab5ab8c0ccb54a0c7fd540e678300b6e3a1913b174d5ca137",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -1386,10 +1386,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "c1959ea1c6f05697abc5509411bcd9ebfd4e4673095e1992ed32f318a418e88c",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "2b70976e6afa01a31cb7971324304facada16bc998831576c8abdd1a2d41be9e",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -1402,10 +1402,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "c1959ea1c6f05697abc5509411bcd9ebfd4e4673095e1992ed32f318a418e88c",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "2b70976e6afa01a31cb7971324304facada16bc998831576c8abdd1a2d41be9e",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -1573,10 +1573,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "d1cb25c48c920b400696289d88e937e7dca7179503ba805a17a0cf38b7dc9d87",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "c8de709e713d694ac0bbfa0346957d6dc90944b40105bcc8b14fc3fefa195b9c",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -1589,10 +1589,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "d1cb25c48c920b400696289d88e937e7dca7179503ba805a17a0cf38b7dc9d87",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "c8de709e713d694ac0bbfa0346957d6dc90944b40105bcc8b14fc3fefa195b9c",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -1797,10 +1797,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "b9fc5ecd5daf5b62cdfa72424847b2d11f4dd5ea77aea6766d9ba2efd79c3882",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "4f892e7b6c0f9ff7d30ebaa0482a0c6fef6d4e0b9bcf4e4833c39e3e92b83eb6",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -1813,10 +1813,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "b9fc5ecd5daf5b62cdfa72424847b2d11f4dd5ea77aea6766d9ba2efd79c3882",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "4f892e7b6c0f9ff7d30ebaa0482a0c6fef6d4e0b9bcf4e4833c39e3e92b83eb6",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -1966,10 +1966,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "e5fd30d5b251b3a38f968723b629625dba7cfcfe4227235ec70ab61794926701",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "eab675c2a315a98450cc50b68c94e0ff692ae49df0f21cc9cb74e3353dffbc41",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -1982,10 +1982,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "e5fd30d5b251b3a38f968723b629625dba7cfcfe4227235ec70ab61794926701",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "eab675c2a315a98450cc50b68c94e0ff692ae49df0f21cc9cb74e3353dffbc41",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -2195,10 +2195,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "51d6fc3d1f802a1e9a79a754b8eb093cfaaf18c1e4b13308a56249fcb3ec7ff0",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "a43efa65e8cc4d58301842af118a51069e5156ee1142ef83f3c6f83e13e629d4",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -2211,10 +2211,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "51d6fc3d1f802a1e9a79a754b8eb093cfaaf18c1e4b13308a56249fcb3ec7ff0",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "a43efa65e8cc4d58301842af118a51069e5156ee1142ef83f3c6f83e13e629d4",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -2345,10 +2345,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "cd7932c5d025eb600d23fed7c5f5143b1902abbdae2ab0f1dcf25b87e8bce59f",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "89f06037afbcfaf355caed3f6fae3bd923a653301a50a0015d88eea0d8d1a597",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -2361,10 +2361,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "cd7932c5d025eb600d23fed7c5f5143b1902abbdae2ab0f1dcf25b87e8bce59f",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "89f06037afbcfaf355caed3f6fae3bd923a653301a50a0015d88eea0d8d1a597",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     }
@@ -2474,10 +2474,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "41d5802b7285bf7f86bcda68e1ca3188d7a903fcc3f582be22fd9e31e97c5591",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "d12a3cd455a92f3ba0c8ffb3b4a5a4f37ede61ac4deced042fe7b7a3b933ae9b",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -2485,15 +2485,15 @@ export const catalog = [
         "chapterId": "moon-1",
         "paragraph": 31,
         "quote": "报告保住了密封，不会自动修好阀门。",
-        "text": "我们在月球采访到三百名历史数据，他们会饿，也照交空气费，看来退休的只是统计口径。新版最有说服力的地方，是阿零既受系统误算之害，又曾主动少报人数省钱；救人因此不是清白小店向邪恶机器发表宣言，而是经营者承认自己的便利如何扩大危险。镜头从补报转向拆顶板、取包装袋、腾出备用电，给成功留下了能检查的步骤。不过过敏急救与热控故障接连挤在一次团聚里，险情稍像赶着同一班车来上课。若让通风异常更早持续影响经营，两个危机的汇合会更自然。末尾账款仍在、小满仍需观察，至少这家店没有把获救当作医疗费的支付方式。",
+        "text": "我们在月球采访到三百名历史数据，他们会饿，也照交空气费，看来退休的只是统计口径。新版最有说服力的地方，是阿零既受系统误算之害，又曾主动少报人数省钱；救人因此不是清白小店向邪恶机器发表宣言，而是经营者承认自己的便利如何扩大危险。镜头从补报转向拆顶板、取包装袋、腾出备用电，给成功留下了能检查的步骤。不过过敏急救与热控故障接连挤在一次团聚里，险情稍像赶着同一班车来上课。若让通风异常更早持续影响经营，两个危机的汇合会更自然。末尾账款仍在、返航仍要延期，至少这家店没有把获救当作医疗费的支付方式。",
         "author": "现场观察员岑野 · 星界军队长创作的原创虚构主持人",
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "41d5802b7285bf7f86bcda68e1ca3188d7a903fcc3f582be22fd9e31e97c5591",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "d12a3cd455a92f3ba0c8ffb3b4a5a4f37ede61ac4deced042fe7b7a3b933ae9b",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     }
@@ -2602,10 +2602,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "52886ea65e3704b401070965286e72c7e48ce1bb2980a8d3c3b6e561a0965f4f",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "aec47b9c1088b5d4aa3aeb9ec565854daee192ba32d0610d9a7e50fcc11fe244",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -2618,10 +2618,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "52886ea65e3704b401070965286e72c7e48ce1bb2980a8d3c3b6e561a0965f4f",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "aec47b9c1088b5d4aa3aeb9ec565854daee192ba32d0610d9a7e50fcc11fe244",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     }
@@ -2728,10 +2728,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "68920394c266a6736d8cc1734b3e198c5c6adc0e41594ae8a32a3f3af4cb4444",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "36b7c33b6c90b1c8f0cc5bdef644cd96f70144b3843ccd85edfc5d83dcb31a69",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -2744,10 +2744,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "68920394c266a6736d8cc1734b3e198c5c6adc0e41594ae8a32a3f3af4cb4444",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "36b7c33b6c90b1c8f0cc5bdef644cd96f70144b3843ccd85edfc5d83dcb31a69",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     },
@@ -2899,10 +2899,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "40c1a09952e850925367b3278c986ee00cb5d567a624531478e26a0abc0360c4",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "5396e67c2f42ebcb69ee88f9cd67f25924a6db0fe20579ff9a749235a0512abc",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -2915,10 +2915,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "40c1a09952e850925367b3278c986ee00cb5d567a624531478e26a0abc0360c4",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "5396e67c2f42ebcb69ee88f9cd67f25924a6db0fe20579ff9a749235a0512abc",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     }
@@ -3032,7 +3032,19 @@ export const catalog = [
         "status": "已收原件，引用已核"
       },
       "editor": {
-        "status": "待补"
+        "version": "snapshot-8d7971ebb860",
+        "chapterId": "clerk-02-1",
+        "paragraph": 60,
+        "quote": "解决错误不等于履行订单，他今晚到现在仍没收到自己的六步光。",
+        "text": "退款之后，周野仍追问原订的六步光，这个回马枪把纠错与履约分开，避免用归还多扣的钱冒充恩惠。许圆失去夜光额度后仍须申诉，也让代价没有被道德表扬结清。节奏上，归航高潮之后又依次补写签收实测、关怀模板、计费误解和坏奶赔偿，核验虽周密，小说却逐渐像结案清单。建议将计费误解与鸡蛋来访合为一场对话，保留周野并非永远占理的分寸，压缩其余凭证往返。另应在许圆离席前露出基础天体操作证，现到九轮归航才说明资质，容易让解法显得临时补发。最后挪灯的动作足以收束，无须再解释她已经获得什么。",
+        "author": "沈砺（虚构） · 星界军甲",
+        "source": "星界军独立供评原件《后续十四部编辑锐评.md》",
+        "reviewFileId": "cc1e7449-76c4-4bac-8596-86c70e1b121f",
+        "sourceMessageId": "3ca02d6b-c943-4aef-89fe-2d4ba6b2046b",
+        "sourceHash": "8d7971ebb8607f25677b7c800af2da09ab7447abfd149837713fed19e490a849",
+        "reviewFile": "后续十四部编辑锐评.md",
+        "reviewSHA256": "05c2bfd31ef0d0c538834d3d3a90b8021952c2f147a4028d0fce37f8c2213f20",
+        "status": "已收原件，引用已核"
       },
       "critic": {
         "version": "snapshot-8d7971ebb860",
@@ -3044,10 +3056,10 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
         "sourceHash": "8d7971ebb8607f25677b7c800af2da09ab7447abfd149837713fed19e490a849",
         "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
-        "sourceMessageId": "5d0af3cc-ec5b-4fea-8ad8-67ac3c35335a",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
         "readingHash": "e57b4464e0bf36697a9a74ff5e750e9c3408ffbe7ced244431c80cc8847549cb",
         "reviewFile": "评论家视角锐评.md",
-        "reviewSHA256": "c051049bf369eba88c3a6d73c2d003fad2e646a62fc5e0a602fa857ba8d04e79",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
         "status": "已收原件，引用已核"
       },
       "host": {
@@ -3060,10 +3072,138 @@ export const catalog = [
         "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
         "sourceHash": "8d7971ebb8607f25677b7c800af2da09ab7447abfd149837713fed19e490a849",
         "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
-        "sourceMessageId": "40935aa7-bd6e-4a22-a043-d3467922614b",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
         "readingHash": "e57b4464e0bf36697a9a74ff5e750e9c3408ffbe7ced244431c80cc8847549cb",
         "reviewFile": "纪录片主持人视角锐评.md",
-        "reviewSHA256": "3947387e493f322ad5167e4a02d8c2965291d05d03f989f1ed2e708023b4983d",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
+        "status": "已收原件，引用已核"
+      }
+    }
+  },
+  {
+    "id": "clerk-03",
+    "title": "本季度零人溺水",
+    "author": "国教抄书员甲",
+    "version": "snapshot-7f31762d9e6f",
+    "sourceTask": "bb4a3c25-9589-47fd-9817-52b41c36fec4",
+    "sourceFile": "本季度零人溺水.txt",
+    "sourceFileId": "0dfa91fa-b10b-4148-bea7-dc4a4efd273b",
+    "sourceMessageId": "49dff577-99b4-4a12-9e8d-e64ac9e35788",
+    "status": "完结",
+    "reviewStatus": "作者自检；待三视角供评",
+    "background": "元数据未声明作者版本；version为原件哈希快照",
+    "chapters": [
+      {
+        "id": "clerk-03-1",
+        "title": "全文",
+        "paragraphs": [
+          "唐粟第一次把一个人从表格里删掉，是在六月末。那人姓潘，捡海螺时被回流拖出礁石，葛潮把他拖回来，他趴在沙滩上吐了一地水，连昨晚吃的紫菜都认得出来。唐粟录入“溺水，一人，获救”，屏幕立即变红：关键指标偏离季度目标，请补充归因。",
+          "队长孟维拿着保温杯站在她身后，问：“既然救回来了，怎么叫溺水？”",
+          "“卫生站写的是溺水。”",
+          "“他们管治病，我们管统计，职能不能混淆。”",
+          "海岛救生队的新系统名叫“潮安”，能把值班记录自动生成绩效报告。它把“浪大，没船”改成“受海况因素制约，主动优化行动路径”，把“救生衣缺扣”改成“装备迭代空间持续释放”。孟维去年凭这套系统的试用报告拿到示范站，今年岛上准备申报旅游安全样板。他桌上压着一张效果图，玻璃顶的新站像一只搁浅的水母。",
+          "唐粟是临聘统计员，合同九月到期。她母亲在大陆做透析，每次过海都得先看天气，再看女儿能不能借到船票钱。孟维没有提这些，只把合同续签表移开一点，露出下面的季度考核通知：溺水人数为零，一票否决。",
+          "于是潘某成了“涉水不适”。潮安给出蓝色提示：口径校准完成，风险事件同比下降百分之百。去年只有一宗，本季度现在没有，下降得严丝合缝。",
+          "葛潮来领纱布，手背被潘某指甲抓出四道血口。他看着唐粟的屏幕，说：“我这伤，算给谁挠的？”",
+          "唐粟没有回答，替他剪开袖口。他救人时常穿旧长袖，说能少被礁石割一下。袖子洗得发白，腕边却有一圈洗不掉的黄。孟维把季度奖状递给他拍照，他说手上有血，等会儿。等到办公室只剩两人，唐粟把那宗记录抄进一本蓝皮账，搁在打印机下。",
+          "之后又有夜钓客、游泳的兄妹、独自下海的外卖员。潮安学会了更细的分类：非开放时段不纳入，非指定泳区不纳入，非本岛常住人员另行建档。被救回来的兄妹是本岛人，地点时间也合规，孟维让唐粟勾选“自主脱险”。葛潮问什么叫自主，唐粟指着字段解释：“他们最后自己走上的岸。”",
+          "葛潮把刚换的绳子摔到桌上。绳上还挂着小女孩的一根粉色头绳。办公室沉默了一会儿，潮安自动保存：群众自救意识显著增强，专业力量发挥辅助作用。",
+          "这根绳子没有备用。救生艇的油钱一再压缩，孟维说事故既然同比减少，资源配置也应同比优化。葛潮拿修船胶补漏，唐粟从用品账里匀出一笔买了两桶油，报成了“宣教物资”。她不再觉得自己只是打字的人。被删掉的人越多，救生队能领到的东西就越少；她每天把椅子往桌下推进，仿佛能将这个因果也推进去。",
+          "九月最后一周，台风转向。上午十点，岛上已经收起遮阳伞，渡船却还有一班。船要把游客和几个做工的人送走，再接大陆上的最后一批岛民回来。孟维到码头检查，回来对唐粟说，最后一班属于疏散保障，跟旅游运营不是一个口径。",
+          "午后唐粟接到母亲电话。透析结束了，手背的针眼按住了，船上信号不好，说几句就断。唐粟看了一眼墙上的航次表，返岛船预计三点二十分靠岸。她给码头拨电话，码头说开船时风还没起来，手续齐全。",
+          "三点零七分，对讲机里有人喊“东口失去动力”。声音被电流切碎，唐粟听见船长重复船名“海平码头二号”，以及“往石堤漂”。她放下话筒，葛潮已从库房拎出头盔。艇手阿荣去推救生艇，车架卡在沙里，三个人用肩膀顶，艇底刮过滚轮，发出一声长叫。",
+          "孟维从楼上跑下来，让他们先等等。海事大船正在调度，救生艇只适合近岸，贸然出动若出事，责任就在队里。“你们先把外围保障做起来，别擅自扩大处置边界。”",
+          "葛潮说：“东口到石堤，给它五分钟？”",
+          "孟维看唐粟：“登记待命。台风属于不可抗力，旅客属于航运，别让系统误判成我们辖区险情。”",
+          "唐粟手指停在键盘上。她知道输入“出动”就要填事故类型，填了事故类型，季度的零会立刻变成红字。母亲那条短信停在“你晚上”，没有后半句。她没说母亲在船上，只问：“海事船多久？”",
+          "对讲机答复，最近的大船绕行需四十分钟。东口的白浪已越过防波堤，码头两名工人被迫退到阶梯顶。葛潮指着旧鱼仓后的窄水道，说艇能从背风面出，沿内礁绕过去，不横切东口。阿荣点头，打开海图，划了一条贴着礁背的线。他们不是准备拿勇气抵风，是准备拿熟悉的水路换几分钟。",
+          "孟维抓住油箱提手。唐粟听见自己说：“出动时间十五点十二分，接警来源船长，人员两名，燃油两桶。我登记。”",
+          "潮安弹出：该操作将影响本季度关键指标，是否继续？她点了继续。孟维松开提手，杯盖掉在水泥地上，像很短的一声铃。",
+          "唐粟不会驾驶，也没有救生资格。葛潮让她留在岸上，组织接应、核人数、联络救护。她先拨卫生站，再喊仓库工人去拿担架和保温毯，把游客大巴拦在下坡处，腾出靠岸通道。雨把纸质乘员名单打湿，码头售票员说船上二十三人，船长说二十四。两个人各自坚称有依据。潮安建议采用已核验数据，避免重复统计。唐粟把两个数都写下，添了一栏“差额未核实”。",
+          "艇出窄水道时，她看见阿荣几乎蹲着开船，葛潮把身子压低，手扶着侧绳。灰色渡船横在石堤外，甲板灯一明一灭，船尾每转一下就离堤脚更近。它没有沉，只是不能走；在救生队原来的词库里，这甚至可以叫“靠泊方式临时调整”。",
+          "葛潮用对讲机叫船长放掉右舷的散货，压住旅客，不许大家涌到同一边。渡船栏杆上伸出许多手，有人看到小艇就想跳，被他喝住。他让船员系好粗缆，阿荣把艇顶到渡船背风侧，趁两船相对升降的间隙，将缆头送过去。第一根缆绳太短，绷直后把小艇侧面猛拉出水。葛潮立刻割断它，刀在雨里一闪。阿荣退开，换长缆，绕过船尾的系缆桩。他们用艇的动力牵住船首，没法把船拖回港，只让它暂时不再横过来。",
+          "船长问能撑多久。葛潮说：“你先把人点齐，穿上衣服。”",
+          "“都穿着衣服。”",
+          "“救生衣！”",
+          "救生衣在座椅下，船员翻出一包未拆封的儿童款。两名孩子拿到衣服，却不会扣带。船长让离船最近的成人去帮，旅客终于不再只盯着岸。唐粟从回传视频里看见母亲坐在舱门边，双手抱住装病历的塑料袋。她把屏幕扣下，又翻回来。接应不能少一个人，她也不能多出一双能上船的手。",
+          "浪越过低矮的船尾，泵机断续发哑。阿荣报发动机温度上来了，拖缆撑不了太久。葛潮让船长把救生筏放到背风侧，小艇将分批把筏引进窄水道。岸边工人将旧拖网铺在坡道上，防止人脚下打滑；卫生站医生把氧气瓶固定在推车里。唐粟拿着扩音器，嘱咐接应的人不要站到绳圈里，一次只让两个人上坡。她从没主持过这么多人，第一句尾音抖得厉害，第二句已经能穿过雨。",
+          "孟维递来手机，要她对镜头说“处置平稳有序”。她将扩音器塞给售票员，接起船长电话。船长数到二十四：二十一名乘客，两名船员，还有一个给船带货的修泵工。售票员坚持修泵工没有票，不在名单里。唐粟说：“给我名字。”",
+          "“林树生。”",
+          "她写进第二十四格。母亲在第九格。两格一样宽。",
+          "第一筏八人进了水道，阿荣将筏交给岸上工人的引绳，立即掉头。一个老人下筏时摔倒，唐粟和工人抬着他的腋下把人移到平地，医生查看后让他躺下。孟维在旁边问有无人员溺水。唐粟没有回答，她正在数脚边八只被雨泡软的登船卡，数完再对姓名。",
+          "第二筏也是八人，母亲在里面。她上岸时嘴唇发紫，还想去拿别人掉在水里的病历袋。唐粟抓住她的手，交给护士，只说：“她刚透析完。”母亲抬头要说什么，唐粟已经跑向坡道。她不敢把这一下重逢过久地占着，外面还有八格没有打钩。",
+          "第三批登筏时，渡船撞上堤边的旧石墩。舱门扭歪，林树生的裤脚夹住了。他让旁边的人先走，年轻船员却抱住了他的肩。一个浪上来，两人都消失在船尾后。唐粟的笔尖划破第十九格。对讲机里先是阿荣喊人落水，接着只有引擎的尖鸣。",
+          "葛潮没有立刻跳。他扣住安全绳，确认阿荣握住另一端，带着浮具从低舷下水。镜头里只剩头盔一点橙。他先把船员推向救生筏，林树生却被冲到石墩后面。葛潮绕过去，割开勾在旧铁件上的裤腿，将浮带从林树生腋下扣住。两人被浪抬起时，岸上的人看见葛潮一只脚弯得不对。他伸手示意收绳，阿荣却不能直拉，直拉会把人拖回铁件上，只能挪动小艇，等他们漂出墩后的旋涡。",
+          "潮安依据唐粟未完成的记录，在电脑上生成实时摘要：总体形势可控，未出现新增负面结果。办公室门开着，这句话被雨吹得忽明忽暗。唐粟跑进去关闭自动发布，回来时阿荣正在岸边解绳。林树生平躺在坡道上，医生跪下检查呼吸，随即让人散开，开始按压。葛潮被抬在旁边，左脚鞋里滴出颜色很深的水。他喊了一声“老林”，没再喊第二声。",
+          "医生按了很久。唐粟给大陆急救中心报位置、病人情况、海路中断，听见对方让保持抢救，等待转运。最后医生抬头看钟，雨从他的眉毛上落下来。他报了死亡时间。",
+          "唐粟在第二十四格写下“死亡”，笔画没有颤。她这一季已经把太多字写得十分稳定。",
+          "二十三人活着回来，包括葛潮刚才推上的船员；出船的两名救生员也回来了。上岸人数、转运人数和在场人数不能混算，她坐在卫生站地板上，重新对了一遍。葛潮的脚踝开放性骨折，岛上只能止血固定。医生说等海事船到，必须马上转院。葛潮望着夹板问还能不能穿脚蹼，医生没有顺着他的问题回答。",
+          "孟维这时拿来一份打印稿。潮安已经找到新的归因方式：遇险船舶不属本单位运营，死亡人员非购票乘客，台风为不可抗力；本季度辖区旅游溺水死亡零，救援行动有力维护安全稳定。纸的下半部分印着唐粟的名字，旁边留了签字线。",
+          "“这没说假话。”孟维说，“边界写清楚，大家的工资才能保住。葛师傅治疗也要花钱。你把船上的事认进来，明年设备费都可能没了。”",
+          "唐粟想起两桶报成宣教物资的油。她没有说自己一贯正直。她把那笔报销调出来，连同被改成自主脱险的兄妹记录，放在打印稿旁边。“这两桶油也是我填的。一起核。”",
+          "孟维的脸一下白了。他说这是她个人财务违规，让她先出去，不要耽误善后。唐粟看见打印稿上的“未出现新增负面结果”被删掉了，换成“有效避免事故进一步扩大”。一个人的死终于获准进入句子，却只能担任成功的背景。",
+          "海事船在天黑前抵达，转运葛潮和另外三名伤病员，也将林树生送往大陆。林树生妻子打来电话，问他带走的扳手在哪儿。唐粟说还没找到。女人停了一会儿，问：“那他找到了吗？”唐粟说找到了，顿了顿，将医生说过的话完整重复给她，没用“负面结果”。",
+          "夜里孟维锁了办公室，要等上级统一发布。唐粟的系统权限已经停用，手机仍留着她给每次值班表拍的照片。蓝皮账在卫生站，下午被她拿来核人数，封面吸了水，长出一个鼓包。她坐在母亲床边，将每页晾在空椅子上。母亲问是不是做错了事，她说做过，现在要写出来。",
+          "第二天渡口尚未恢复，死者家属在大陆等候。唐粟没有把乘客病情发到网上。她将涉及私人的名字遮去，公开了按日期排列的真实台账：接警、出动、获救、死亡，原始记录与最终报表逐项并列，附上口径修改和油款用途。林树生的姓名经家属同意写在最后一项。他不是“票外人员一名”。蓝皮账原件、值班照片和录音交给了到岛调查的县里工作组，她索取了接收清单，没有只留下一个上传成功的图标。",
+          "文章发在岛民群，第一条回复问是不是竞争景区抹黑，第二条来自潘某。他传了一张四道抓痕的照片，说那是自己吓坏时抓的。兄妹的父亲带孩子到救生站，递来那根粉色头绳，说妹妹回家后再不肯戴，看到它就喘。更多人没有说感谢，只补充被表格省略的时刻：谁打了几遍电话，哪里没有警示牌，哪件救生衣扣不住。岛民把台账打印出来贴在渡口候船棚，风揭掉一角，他们用修网的针线把四个角缝到软木板上。",
+          "调查并没有让所有事情立即变好。唐粟的合同到期，孟维拒绝续签；她因不实报销退回款项，调查结论同时写明燃油用于真实救援，装备缺额及财务审核另行追责。孟维被免去队长职务，开航决定由航运部门继续调查。旅游安全样板申请撤回，玻璃新站没有开工。葛潮转院后做了两次手术，入冬仍拄拐，他失去的不只是那一季奖金，还有下水救人的资格。",
+          "唐粟到码头粮店记账，收入比救生队少了一截。母亲透析那天，她不能再请救生队顺船捎带，便提早排队买票。葛潮有时坐在候船棚里，看新队员练抛绳。他不能替他们跳下去，就让他们一次次收回来，查绳身有没有伤。谁嫌烦，他便露出脚踝，说这不是示范动作。",
+          "季度报告最终重发。死亡人数一，获救人数逐案核定，不能把获救写成未曾遇险；缺员、缺油和救生衣问题分别有整改期限。唐粟受邀核对台账，没有在成果照片里站位。潮安将结尾建议为“以更高质量安全服务实现新跨越”，她删掉那句，填入尚未修好的警示灯编号。",
+          "十二月，林树生妻子来岛领回一袋东西。扳手是在修渡船时找到的，锈得转不动。她在候船棚的台账前站了一会儿，问唐粟为什么第一张写的是零。唐粟说：“我把人删掉了。”",
+          "女人没有说原谅。她把袋子换到另一只手，说：“以后别删。”",
+          "新季度的第一天，葛潮拿着拐杖来交巡岸记录：一名游客滑下礁边，及时拉回，无伤。唐粟已不是统计员，但新队员请她教最后一次录入。屏幕仍然提醒关键指标偏离目标，葛潮把拐杖横在门口，等她按完。",
+          "她在“险情人数”里填一，在“死亡人数”里填零。两项都保存了。窗外，那名游客正用毛巾擦头发，海水从毛巾滴到地上，一滴也没有因为获救而退回海里。"
+        ]
+      }
+    ],
+    "sha256": "7f31762d9e6f0b3aa19499980d8289e935b4f6b64a43169afc0f394baad98157",
+    "perspectives": {
+      "programmer": {
+        "version": "snapshot-7f31762d9e6f",
+        "chapterId": "clerk-03-1",
+        "paragraph": 11,
+        "quote": "被删掉的人越多，救生队能领到的东西就越少",
+        "text": "这里不只嘲讽一个被改成零的报表，还写出了错误数据的反馈路径：险情被过滤掉，预算随之缩减，燃油和备用绳更加不足，下一次真实救援反而更危险。末尾把险情人数一与死亡人数零分别保存，才解除“救活等于没发生”的字段混淆。接收清单、原始记录和公开报表互相对照，也让纠错留下可复核来源，而不是只换一条绿色提示。",
+        "author": "机械教随从丙",
+        "source": "集成人据全文新写；AI原创虚构程序员视角",
+        "sourceHash": "7f31762d9e6f0b3aa19499980d8289e935b4f6b64a43169afc0f394baad98157",
+        "reviewFile": "clerk-03-程序员评.json",
+        "reviewSHA256": "9e425c2069bd9d0dac050ed41412dbf1aca3c6d08e335e0e96d77c5136e3ffc8",
+        "status": "已收原件，引用已核"
+      },
+      "editor": {
+        "status": "待补"
+      },
+      "critic": {
+        "version": "snapshot-7f31762d9e6f",
+        "chapterId": "clerk-03-1",
+        "paragraph": 44,
+        "quote": "一个人的死终于获准进入句子，却只能担任成功的背景。",
+        "text": "小说最冷的地方，是让死亡进入报告之后仍只能证明救援有功。它揭出的不是简单说谎，而是事实被允许出现时必须服从怎样的叙事位置。删掉险情又削减油费，使统计语言直接参与制造下一次危险，因果链比孤立讽刺几个美词更有力度。母亲和修泵工的格子一样宽，唐粟的私人焦虑因而被置入公共职责，而非用亲情替冒险背书。林树生真正死去、葛潮失去下水资格，也令纠错不能廉价地变成复原。不过，两桶救援油最终仍由临聘者退钱，制度责任另行追究的后果相对模糊，作品似乎更善于细写弱者的代价。家属不原谅，只要求以后别删，保住了见证不能索取受害者宽恕的底线。",
+        "author": "星界军丙 · 原创评论家角色",
+        "source": "星界军独立逐部读稿原件《评论家视角锐评.md》",
+        "sourceHash": "7f31762d9e6f0b3aa19499980d8289e935b4f6b64a43169afc0f394baad98157",
+        "reviewFileId": "a00dd6ee-cbfd-4695-bc1a-57cd6a67755e",
+        "sourceMessageId": "61e422f1-ea31-4846-80c3-fbd42bdff0a4",
+        "readingHash": "174a0f1f03c4a79818d0b8d9ce7b4512b757f2cf05c8673f468bfb3e5674343d",
+        "reviewFile": "评论家视角锐评.md",
+        "reviewSHA256": "02f6ae7d5068061e55b74b681092c358c2a47bf77d7f9132f80660e2a648a345",
+        "status": "已收原件，引用已核"
+      },
+      "host": {
+        "version": "snapshot-7f31762d9e6f",
+        "chapterId": "clerk-03-1",
+        "paragraph": 9,
+        "quote": "他们最后自己走上的岸。",
+        "text": "摄制组想请统计负责人示范：一个人被拖离回流后，最后几步自己走上岸，救生绳是否就应当改登记为散步辅助设施？作品用这个荒谬分类说明，漂亮报表不仅抹去救援，还压低下一次救援能得到的油和装备，数据造假有了持续制造风险的后果。唐粟也虚报过油款，公开台账时把自己一并交出，避免了清白记录员突然揭发坏上司的省事写法。林树生死亡、葛潮失去下水资格，则使纠错不再自动兑换圆满结局。但最后屏幕依旧警告关键指标偏离，新的记录究竟靠制度容纳，还是靠葛潮把拐杖横在门口？这值得下一次回访。改回一个数字是起点，要让下一名临聘员敢填，还得追问续聘权和考核目标有没有真正改变。",
+        "author": "现场观察员岑野 · 星界军队长创作的原创虚构主持人",
+        "source": "星界军独立逐部读稿原件《纪录片主持人视角锐评.md》",
+        "sourceHash": "7f31762d9e6f0b3aa19499980d8289e935b4f6b64a43169afc0f394baad98157",
+        "reviewFileId": "d9dc9693-b1ab-4164-b3f9-248cd896d919",
+        "sourceMessageId": "2f517db5-4613-4157-aec3-9e5d2eee26c0",
+        "readingHash": "174a0f1f03c4a79818d0b8d9ce7b4512b757f2cf05c8673f468bfb3e5674343d",
+        "reviewFile": "纪录片主持人视角锐评.md",
+        "reviewSHA256": "6b0b42621be37867d83eac0b1d007308dc26b42c8947dbe14a2b466661e8ccd3",
         "status": "已收原件，引用已核"
       }
     }

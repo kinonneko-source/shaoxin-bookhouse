@@ -28,6 +28,9 @@ try:
     for i,r in enumerate(reviews):
      page.locator('.review-quote').nth(i).click()
      expect(page.locator(f"#serial-p-{r['paragraph']}.highlight")).to_contain_text(r['quote'])
+     expect(page.locator(f"#serial-p-{r['paragraph']}.highlight")).to_be_in_viewport()
+     page.locator('.review-quote').nth(i).click()
+     expect(page.locator(f"#serial-p-{r['paragraph']}.highlight")).to_be_in_viewport()
      assert f"/{r['chapterId']}/quote/{r['paragraph']}" in page.url
      quotes+=1
     if b['id'] in ['rain','moon','email']:
