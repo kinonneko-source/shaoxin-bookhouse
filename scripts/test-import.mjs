@@ -13,9 +13,11 @@ try{
  const unchanged=()=>assert.equal(readFileSync(join(dir,'catalog.js'),'utf8'),'sentinel');
  reset();assert.notEqual(run({books:[{...book,chapters:[{id:'fixture-1',title:'x',paragraphs:['伪造正文'.repeat(1000)]}]}]}).status,0);unchanged();
  reset();assert.notEqual(run({books:[{...book,chapters:[{id:'fixture-1',title:'x',paragraphs:[paragraph.slice(0,10)]}]}]}).status,0);unchanged();
+ reset();assert.notEqual(run({books:[book,{...book,id:'fixture-copy'}]}).status,0);unchanged();
  const b=catalog.find(b=>b.id==='tide');const r=b.perspectives.programmer;
  const reviewPath=join(dir,'review.json');writeFileSync(reviewPath,JSON.stringify(r));
  reset();assert.notEqual(run({reviews:[{...r,book_id:b.id,role:'critic',version:'wrong-version',originalPath:reviewPath}]}).status,0);unchanged();
+ reset();assert.notEqual(run({reviews:[{...r,sourceHash:'0'.repeat(64),book_id:b.id,role:'critic',originalPath:reviewPath}]}).status,0);unchanged();
  const bad={...r,chapterId:'absent'};writeFileSync(reviewPath,JSON.stringify(bad));
  reset();assert.notEqual(run({reviews:[{...bad,book_id:b.id,role:'critic',originalPath:reviewPath}]}).status,0);unchanged();
  reset();const ok=run({books:[book]});assert.equal(ok.status,0,ok.stderr);

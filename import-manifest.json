@@ -234,6 +234,19 @@
       "sourceMessageId": "47f268e4-23c6-45ee-b66d-67245daf2cfd",
       "reviewStatus": "作者自检；待三视角供评",
       "importTask": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a"
+    },
+    {
+      "id": "clerk-02",
+      "title": "您的月亮正在排队",
+      "author": "国教抄书员甲",
+      "version": "snapshot-8d7971ebb860",
+      "sourceTask": "bb4a3c25-9589-47fd-9817-52b41c36fec4",
+      "sourceFile": "您的月亮正在排队.txt",
+      "sha256": "8d7971ebb8607f25677b7c800af2da09ab7447abfd149837713fed19e490a849",
+      "sourceFileId": "078a92be-72eb-43d2-9011-b7080e1bdba4",
+      "sourceMessageId": "a473c467-d491-4544-b514-c6cba50562e9",
+      "reviewStatus": "作者已自检；待三视角供评",
+      "importTask": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a"
     }
   ]
 }
