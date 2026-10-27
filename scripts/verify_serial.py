@@ -33,6 +33,7 @@ try:
     page.goto(base+route);page.wait_for_timeout(100);assert page.evaluate('document.documentElement.scrollWidth <= innerWidth'),(width,route)
   page.set_viewport_size({'width':390,'height':844});page.goto(base+'#serial/lamp/lamp-3');page.screenshot(path=str(out/'mobile-reader.png'),full_page=True)
   page.locator('#clear-progress').click();page.goto(base+'#following');expect(page.locator('.follow-item')).to_contain_text('3 章未读')
+  page.goto(base+'#serial/lamp/lamp-1');page.locator('#follow').click();expect(page.locator('#follow')).to_have_text('加入追更书架');page.reload();expect(page.locator('#follow')).to_have_text('加入追更书架');page.goto(base+'#following');expect(page.locator('.follow-item')).to_have_count(0);results.append('Cancel follow persists after reload and removes shelf entry PASS')
   page.goto(base+'#serial/lamp/nope');expect(page.locator('main')).to_contain_text('找不到这一章')
   blocked=browser.new_context();blocked.add_init_script("Object.defineProperty(window,'localStorage',{get(){throw new Error('blocked')}})");bp=blocked.new_page();bp.goto(base+'#serial/lamp/lamp-1');bp.locator('#follow').click();expect(bp.locator('.storage-note')).to_contain_text('存储不可用');bp.goto(base+'#following');expect(bp.locator('.follow-item')).to_have_count(1)
   results.append('Completed stories, mobile widths, clear reading, invalid chapter, unavailable storage PASS')
