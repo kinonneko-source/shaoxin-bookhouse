@@ -544,13 +544,20 @@ export const catalog = [
       "programmer": {
         "status": "已提供",
         "author": "机械教随从丙",
-        "source": "本任务依据原文新写的AI虚构锐评",
+        "source": "续接任务c44fd9d1已写的AI原创程序员评，本任务按同版原文复核保留",
         "version": "v1",
         "sourceHash": "d458351147d200a4c45e81a3ee15a3b1c2f35d9ade2186424b142bf48953efd6",
         "quote": "许照按下保存。",
         "text": "保存只是写盘成功，不等于业务结案。本文可贵之处在于救人之后继续处理责任和伤痛，没有用一次成功返回吞掉所有未完成事项。表格能记录漏水，不能充当水泵。",
         "chapterId": "tide-1",
-        "paragraph": 115
+        "paragraph": 115,
+        "reviewOrigin": {
+          "kind": "git",
+          "commit": "292ef21e69008c6f083ddea19b97208c0fa6716e",
+          "path": "catalog.js",
+          "task": "c44fd9d1-a394-4852-ab2b-6e63c91b78c8"
+        },
+        "reviewSHA256": "d89eb28e9ebf488f8a00aa7a1b6c760682f094aa56e7f1ede515ce1e41b9d394"
       },
       "editor": {
         "version": "v1",
@@ -738,13 +745,20 @@ export const catalog = [
       "programmer": {
         "status": "已提供",
         "author": "机械教随从丙",
-        "source": "本任务依据原文新写的AI虚构锐评",
+        "source": "续接任务c44fd9d1已写的AI原创程序员评，本任务按同版原文复核保留",
         "version": "v1",
         "sourceHash": "845e1be05b2a12968ca1701035508c58eaa8f75a6396cbc7276a63411b6a03e4",
         "quote": "这是那段话第一次承担了可以直接观察的用途。",
         "text": "论证终于有了可观察的输出：垫住漏油铁盒。此前定义越完整，开门延迟越长；这是把类型检查放在救援热路径上。门需要先打开，证明可以随后补。",
         "chapterId": "umbrella-1",
-        "paragraph": 112
+        "paragraph": 112,
+        "reviewOrigin": {
+          "kind": "git",
+          "commit": "292ef21e69008c6f083ddea19b97208c0fa6716e",
+          "path": "catalog.js",
+          "task": "c44fd9d1-a394-4852-ab2b-6e63c91b78c8"
+        },
+        "reviewSHA256": "d89eb28e9ebf488f8a00aa7a1b6c760682f094aa56e7f1ede515ce1e41b9d394"
       },
       "editor": {
         "version": "v1",
@@ -943,13 +957,20 @@ export const catalog = [
       "programmer": {
         "status": "已提供",
         "author": "机械教随从丙",
-        "source": "本任务依据原文新写的AI虚构锐评",
+        "source": "续接任务c44fd9d1已写的AI原创程序员评，本任务按同版原文复核保留",
         "version": "v1",
         "sourceHash": "246254d781245d20fa306849af78bcddccbd5dc4418c7d9e7585eaf6d027b4c5",
         "quote": "他很难过。他真的很难过。",
         "text": "同一个情绪连续写入两次，没有增加状态信息。但这里重复是刻意的讽刺机制；修辞系统持续吞掉事实，人物则必须靠电源、救生圈和具体操作恢复事实。后续六灯熄灭仍是未解决事件，不能把第三章标成全书成功退出。",
         "chapterId": "lamp-1",
-        "paragraph": 1
+        "paragraph": 1,
+        "reviewOrigin": {
+          "kind": "git",
+          "commit": "292ef21e69008c6f083ddea19b97208c0fa6716e",
+          "path": "catalog.js",
+          "task": "c44fd9d1-a394-4852-ab2b-6e63c91b78c8"
+        },
+        "reviewSHA256": "d89eb28e9ebf488f8a00aa7a1b6c760682f094aa56e7f1ede515ce1e41b9d394"
       },
       "editor": {
         "version": "v1",

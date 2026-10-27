@@ -4,7 +4,7 @@
   "missing": {
     "oldZIP": "待补",
     "oldBackground": "待补",
-    "editorCriticHostReviews": "待补"
+    "editorCriticHostReviews": "仅缺clerk-03/clerk-04两条编辑原件；程序员20、编辑18、评论家20、主持人20"
   },
   "sources": [
     {
@@ -285,7 +285,7 @@
       "email"
     ],
     "rawManuscripts": "20部已收且原件SHA/完整段落核验通过",
-    "reviews": "等待最后四条实际原件；以最终矩阵为准",
+    "reviews": "78/80；仅缺clerk-03/clerk-04编辑原件，不以取件done代供评验收",
     "pr": "3 DRAFT，基于PR #2，未合并",
     "deployment": "未部署"
   }

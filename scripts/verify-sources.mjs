@@ -1,4 +1,4 @@
-import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';import assert from 'node:assert/strict';import {catalog} from '../catalog.js';
+import {execFileSync} from 'node:child_process';import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';import assert from 'node:assert/strict';import {catalog} from '../catalog.js';
 const out=process.argv[2],inbox=process.argv[3]||'/workspace/inbox';
 const sourcePaths={tide:path.join(inbox,'退潮后请及时注销月亮.md'),umbrella:path.join(inbox,'一把伞的充分必要条件.md'),lamp:path.join(inbox,'首批小说原文.md')};
 for(const f of fs.readdirSync(out).filter(f=>f.endsWith('归一化.json'))){const data=JSON.parse(fs.readFileSync(path.join(out,f)));for(const b of data.books||[])sourcePaths[b.id]=b.originalPath;}
@@ -14,9 +14,10 @@ for(const b of catalog){
  assert.equal(hash(JSON.stringify(actual)),hash(JSON.stringify(expected)),`${b.id}: paragraphs differ (actual ${actual.length}, source ${expected.length})`);
  const reviews=[];
  for(const [role,r] of Object.entries(b.perspectives))if(r.text){
+  if(r.reviewOrigin?.kind==='git'){const rr=execFileSync('git',['show',r.reviewOrigin.commit+':'+r.reviewOrigin.path]);assert.equal(hash(rr),r.reviewSHA256);assert(rr.toString().includes(r.quote)&&rr.toString().includes(r.text));}
   const reviewFile=r.reviewFile&&[path.join(out,r.reviewFile),path.join(inbox,r.reviewFile)].find(f=>fs.existsSync(f));
   if(reviewFile){const rr=fs.readFileSync(reviewFile);assert.equal(hash(rr),r.reviewSHA256,`${b.id}/${role}: review snapshot hash mismatch; refresh/reimport current cumulative file`);assert(rr.toString().includes(r.quote)&&rr.toString().includes(r.text));}
-  reviews.push({role,sourceHash:r.sourceHash,reviewSHA256:r.reviewSHA256||null,sourceVersion:r.version,chapterId:r.chapterId,paragraph:r.paragraph,quote:r.quote});
+  reviews.push({role,reviewFile:r.reviewFile||null,reviewOrigin:r.reviewOrigin||null,sourceMessageId:r.sourceMessageId||null,sourceHash:r.sourceHash,reviewSHA256:r.reviewSHA256||null,sourceVersion:r.version,chapterId:r.chapterId,paragraph:r.paragraph,quote:r.quote});
  }
  result.push({book_id:b.id,title:b.title,version:b.version,authorVersion:b.authorVersion||null,sourceFile:b.sourceFile,sourceFileId:b.sourceFileId||null,sourceMessageId:b.sourceMessageId||null,sha256:b.sha256,readingHash:hash(JSON.stringify(b.chapters)),chapters:b.chapters.length,paragraphs:actual.length,han:(actual.join('').match(/\p{Script=Han}/gu)||[]).length,originalParagraphsEqual:true,reviews});
 }
