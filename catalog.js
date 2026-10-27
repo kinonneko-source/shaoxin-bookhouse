@@ -3182,7 +3182,23 @@ export const catalog = [
         "status": "已收原件，引用已核"
       },
       "editor": {
-        "status": "待补"
+        "书名": "本季度零人溺水",
+        "version": "snapshot-7f31762d9e6f",
+        "chapterId": "clerk-03-1",
+        "paragraph": 43,
+        "quote": "这两桶油也是我填的。一起核。",
+        "角色": "原创文学编辑",
+        "text": "唐粟把自己挪用油款的记录一并交出，使揭露不再只是正直者指认坏队长，而成为参与者承担责任，人物转折因此站得住。救援中核对二十三与二十四人的差额，也把统计从删人变成认人的过程，值得保留。节奏上，后段公开台账、群众补证、调查处分、报告重发接连推进，信息虽完整，容易让一次艰难选择迅速获得制度性确认。建议压缩调查结果的集中交代，把一处整改信息移到葛潮教新队员查绳的场景，让后果由动作呈现。死者妻子不说原谅、只要求以后别删，已足以拒绝廉价和解；末段海水的解释性回扣可略收，让两项数据同时保存的动作自己落地。",
+        "author": "沈砺（虚构） · 星界军甲",
+        "source": "星界军甲全文阅读后原创编辑评述；角色虚构",
+        "sourceTask": "d69282f7-58fa-4929-85c2-1f794b5d49e8",
+        "sourceFileId": "5baac6ba-48ba-4961-b221-ad54fd358494",
+        "sourceMessageId": "71c78d8b-8691-4250-86ee-f86df4e8e014",
+        "sourceHash": "7f31762d9e6f0b3aa19499980d8289e935b4f6b64a43169afc0f394baad98157",
+        "readingHash": "174a0f1f03c4a79818d0b8d9ce7b4512b757f2cf05c8673f468bfb3e5674343d",
+        "reviewFile": "clerk-03与clerk-04编辑视角补评.md",
+        "reviewSHA256": "dfb95cb5a121a84adb33fb157bf5e796b5cbb920287ef0c1023b7fbe151dcff4",
+        "status": "已收原件，引用已核"
       },
       "critic": {
         "version": "snapshot-7f31762d9e6f",
@@ -3323,7 +3339,23 @@ export const catalog = [
         "status": "已收原件，引用已核"
       },
       "editor": {
-        "status": "待补"
+        "书名": "请勿将明天浸入水中",
+        "version": "snapshot-b19ee19aeb33",
+        "chapterId": "clerk-04-1",
+        "paragraph": 51,
+        "quote": "回去吧。我们再想别的。",
+        "角色": "原创文学编辑",
+        "text": "冯木在女儿将获救时仍让杜栖回去，使她的割舍保有退出的可能，没有被写成他人理所当然索取的牺牲。木梳从未完成的探望变成日常工具，也让告别留下可触摸的余波。结构上需要斟酌的是母亲消失后立刻再起默认共享、满意度门槛与断线险情：它补足救回孩子不等于取得自主权，却把读者刚进入的哀痛迅速拉回闯关。建议将默认共享的风险提前露在检修册上，高潮只保留冯木摸刻痕拔线的一次动作，减少临场新增规则。杜栖的离线日期为何可完整保存母亲，也宜在揭床单前补一处简短提示，使旧箱的例外成为可回认的伏笔，而非恰好可用的解法。",
+        "author": "沈砺（虚构） · 星界军甲",
+        "source": "星界军甲全文阅读后原创编辑评述；角色虚构",
+        "sourceTask": "d69282f7-58fa-4929-85c2-1f794b5d49e8",
+        "sourceFileId": "5baac6ba-48ba-4961-b221-ad54fd358494",
+        "sourceMessageId": "71c78d8b-8691-4250-86ee-f86df4e8e014",
+        "sourceHash": "b19ee19aeb33ca96bee11fda56ff248ac312233b8cc1ad5dfdd56a32ebefafeb",
+        "readingHash": "96c55e336b798f34c75062bdfb4125291eb6e7649539596f059b44ca8a853211",
+        "reviewFile": "clerk-03与clerk-04编辑视角补评.md",
+        "reviewSHA256": "dfb95cb5a121a84adb33fb157bf5e796b5cbb920287ef0c1023b7fbe151dcff4",
+        "status": "已收原件，引用已核"
       },
       "critic": {
         "version": "snapshot-b19ee19aeb33",
