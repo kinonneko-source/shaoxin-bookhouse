@@ -1,6 +1,6 @@
 {
-  "task": "c44fd9d1-a394-4852-ab2b-6e63c91b78c8",
-  "classification": "三部独立新作，非旧ZIP补件",
+  "task": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a",
+  "classification": "独立作品按book_id计数；扩写替换同ID，不累加",
   "missing": {
     "oldZIP": "待补",
     "oldBackground": "待补",
@@ -43,6 +43,61 @@
       "deliverySHA256": "246254d781245d20fa306849af78bcddccbd5dc4418c7d9e7585eaf6d027b4c5",
       "reviewReceipt": "fb601244-b3dc-4af3-ac1f-b61fa479ea4e",
       "reviewNote": "审校记录为发送前阶段快照；后续来信附交付版，明确独立审校完成。审校记录所载待发送状态不代表当前未到手。"
+    },
+    {
+      "id": "scholar-03",
+      "title": "最后一页综述",
+      "author": "卡特玲娜·格蕾法克斯",
+      "version": "1.0.0",
+      "sourceTask": "9c73ed9b-df9d-4464-ba5c-29f939b78f3d",
+      "sourceFile": "最后一页综述.md",
+      "sha256": "dc48b496a2aaabe1bad326bad7b84a14fdf757092dcb91b450dd03b56b77737b",
+      "reviewStatus": "作者已自检；待四视角供评",
+      "importTask": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a"
+    },
+    {
+      "id": "scholar-01",
+      "title": "未定义的母亲",
+      "author": "卡特玲娜·格蕾法克斯",
+      "version": "1.0.0",
+      "sourceTask": "9c73ed9b-df9d-4464-ba5c-29f939b78f3d",
+      "sourceFile": "未定义的母亲.md",
+      "sha256": "8ea5b8c39556234b7c20d1de866ac9ad0d8a08ebf1c3dd5943091928877469c8",
+      "reviewStatus": "作者已自检；待三视角供评",
+      "importTask": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a"
+    },
+    {
+      "id": "scholar-02",
+      "title": "零误差摆渡",
+      "author": "卡特玲娜·格蕾法克斯",
+      "version": "1.0.0",
+      "sourceTask": "9c73ed9b-df9d-4464-ba5c-29f939b78f3d",
+      "sourceFile": "零误差摆渡.md",
+      "sha256": "30dc02aab3fc09a46df9dae97fec472a0a3935109e67a1143db025f7e9f22b94",
+      "reviewStatus": "作者已自检；待三视角供评",
+      "importTask": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a"
+    },
+    {
+      "id": "scholar-04",
+      "title": "把雨归还给云",
+      "author": "卡特玲娜·格蕾法克斯",
+      "version": "1.0.0",
+      "sourceTask": "9c73ed9b-df9d-4464-ba5c-29f939b78f3d",
+      "sourceFile": "把雨归还给云.md",
+      "sha256": "904da67bcc8e1f31b7a5a09d01200a31fc1b85d093f8153076b0211449c7715f",
+      "reviewStatus": "作者已自检；待三视角供评",
+      "importTask": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a"
+    },
+    {
+      "id": "celestine-punctuation-case",
+      "title": "第七个嫌疑人是标点符号",
+      "author": "圣塞勒斯汀",
+      "version": "1.0",
+      "sourceTask": "e2294337-bb84-4a0e-98e8-4f041f9994b8",
+      "sourceFile": "03-原文.md",
+      "sha256": "c1959ea1c6f05697abc5509411bcd9ebfd4e4673095e1992ed32f318a418e88c",
+      "reviewStatus": "作者自检；待三视角供评",
+      "importTask": "6d01043a-a91b-4c73-8925-5fe0e28c6d7a"
     }
   ]
 }
