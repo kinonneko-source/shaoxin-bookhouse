@@ -6,6 +6,6 @@
   "scripts": {
     "dev": "python3 -m http.server 4173 --bind 127.0.0.1",
     "build": "node scripts/build.mjs",
-    "test": "node scripts/check.mjs && node scripts/check-catalog.mjs"
+    "test": "node scripts/check.mjs && node scripts/check-catalog.mjs && node scripts/check-three-rounds.mjs"
   }
 }

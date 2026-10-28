@@ -1,3 +1,4 @@
+import {threeRounds} from './three-rounds.js';
 export const catalog = [
   {
     "id": "rain",
@@ -3392,3 +3393,5 @@ export const catalog = [
     }
   }
 ];
+
+catalog.push(threeRounds);
