@@ -29,4 +29,8 @@ for(const r of b.discussion){
  }
 }
 assert(b.corrections.some(x=>x.includes('欠租')));
+const latestReply=b.discussion.find(x=>x.id==='D-R3-E02');
+assert(!latestReply.text.includes('欠租'));
+assert(latestReply.text.includes('第一轮王先生问'));
+assert.equal(latestReply.sourceHash,'a06a0dd634005da78ce294f1c43c5070ccf30f9c930a53a75132eebc1278790f');
 console.log('Three rounds: 36 paragraphs, 33 reviews, 23 replies, all targets and threads PASS');
